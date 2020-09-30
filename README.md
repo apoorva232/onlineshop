@@ -1,2 +1,3 @@
-# onlineshop
-An app written in Java for an online shop 
+# online shopping
+>An app for online shopping
+>language - java
